@@ -2,7 +2,7 @@
 
 jar在运行jar---需要jdk1.8文件，运行run.bat文件即可。
 
-![img](D:\Files\vnotebook\note_photo\clip_image002.jpg)
+![img](https://github.com/Oislop/javaFxCanvas/blob/master/%E5%8F%AF%E4%BB%A5%E8%BF%90%E8%A1%8Cjar---%E9%9C%80%E8%A6%81jdk1.8/run.png)
 
 #### 设计思想
 
