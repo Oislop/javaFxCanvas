@@ -2,7 +2,7 @@
 
 jar在运行jar---需要jdk1.8文件，运行run.bat文件即可。
 
-
+![img](D:\Files\vnotebook\note_photo\clip_image002.jpg)
 
 #### 设计思想
 
